@@ -18,4 +18,5 @@ Here are some cool open source projects you might not know:
 - [Czkawka](https://github.com/qarmin/czkawka): Multi functional app to find duplicates, empty folders, similar images etc. 
 - [La Suite Docs](https://github.com/suitenumerique/docs): A collaborative note taking, wiki and documentation platform that scales. Opensource alternative to Notion or Outline. 
 - [PyO3](https://github.com/PyO3/pyo3): Rust bindings for the Python interpreter 
-- [Zotero](https://github.com/zotero/zotero): Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources. 
+- [Zotero](https://github.com/zotero/zotero): Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
+- [TimeEval](https://github.com/TimeEval/TimeEval): Evaluation Tool for Anomaly Detection Algorithms on Time Series 
