@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Lucas!
 
-I'm a data scientist at the Leiden Institute of Advanced Computer Science (LIACS) and in the powertrain development at Mercedes-Benz. Here are a few facts about me:
+I'm a data scientist and PhD student at the Leiden Institute of Advanced Computer Science (LIACS). Here are a few facts about me:
 - 🔓 Open source enthusiast
 - 🔭 Working on anomaly detection in time series data and writing my PhD thesis on it.
 - 🌱 Currently learning a bit of Rust/PyO3 to make my data processing functions more performant.
