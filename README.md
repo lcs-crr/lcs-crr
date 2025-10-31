@@ -17,4 +17,4 @@ Here are some cool open source projects you might not know:
 - [Home Assistant](https://github.com/home-assistant/core): Open source home automation that puts local control and privacy first. 
 - [Audiobookshelf](https://github.com/advplyr/audiobookshelf): Self-hosted audiobook and podcast server 
 - [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx): A community-supported supercharged document management system
-- [Mealie](https://github.com/mealie-recipes/mealie): A self hosted recipe manager and meal planner
+- [Mealie](https://github.com/mealie-recipes/mealie): A self-hosted recipe manager and meal planner
