@@ -18,4 +18,4 @@ Here are some cool open source projects you might not know:
 - [Audiobookshelf](https://github.com/advplyr/audiobookshelf): Self-hosted audiobook and podcast server.
 - [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx): A community-supported supercharged document management system.
 - [Mealie](https://github.com/mealie-recipes/mealie): A self-hosted recipe manager and meal planner.
-- [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF): 
+- [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF): A self-hosted web application that allows you to perform various operations on PDF files.
