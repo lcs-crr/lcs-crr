@@ -8,7 +8,7 @@ I'm a data scientist at Liebherr and PhD student at the Leiden Institute of Adva
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,matlab,rust,anaconda,git,github,latex,linux,ubuntu,windows,md" />
+    <img src="https://skillicons.dev/icons?i=py,vscode,pycharm,tensorflow,pytorch,sklearn,matlab,rust,git,latex,linux,md,azure,docker&perline=7" />
   </a>
 </p>
 
