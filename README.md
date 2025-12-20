@@ -20,3 +20,4 @@ Here are some cool open source projects you might not know:
 - [Mealie](https://github.com/mealie-recipes/mealie): A self-hosted recipe manager and meal planner.
 - [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF): A self-hosted web application that allows you to perform various operations on PDF files.
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden): Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs 
+- [Radicale](https://github.com/Kozea/Radicale): A simple CalDAV (calendar) and CardDAV (contact) server.
