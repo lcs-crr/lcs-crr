@@ -11,19 +11,3 @@ I'm a data scientist at Liebherr and PhD student at the Leiden Institute of Adva
     <img src="https://skillicons.dev/icons?i=py,vscode,pycharm,tensorflow,pytorch,sklearn,matlab,rust,git,latex,linux,md,azure,docker&perline=7" />
   </a>
 </p>
-
-Here are some cool open source projects you might not know:
-- [Authentik](https://github.com/goauthentik/authentik): authentik is an Identity Provider and Single Sign On platform that is built with security at the forefront of every piece of code, every feature, with an emphasis on flexibility and versatility.
-- [Donetick](https://github.com/donetick/donetick): An open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized.
-- [Home Assistant](https://github.com/home-assistant/core): Open source home automation that puts local control and privacy first. 
-- [Immich](https://github.com/immich-app/immich): High performance self-hosted photo and video management solution.
-- [Mealie](https://github.com/mealie-recipes/mealie): A self-hosted recipe manager and meal planner.
-- [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx): A community-supported supercharged document management system.
-- [Radicale](https://github.com/Kozea/Radicale): A simple CalDAV (calendar) and CardDAV (contact) server.
-- [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF): A self-hosted web application that allows you to perform various operations on PDF files.
-- [Vaultwarden](https://github.com/dani-garcia/vaultwarden): Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
-- [Wallos](https://github.com/ellite/Wallos): Visualize your recurring expenses, manage your budget, and save money. 
-
-And to monitor and manage all your self-hosted services:
-- [Dockge](https://github.com/louislam/dockge): A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager.
-- [Uptime Kuma](https://github.com/louislam/uptime-kuma):  A fancy self-hosted monitoring tool.
